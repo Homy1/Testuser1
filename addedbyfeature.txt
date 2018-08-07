@@ -1,1 +1,2 @@
 This is test for gitflow
+add some new texts for release
